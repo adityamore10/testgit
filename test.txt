@@ -1,2 +1,3 @@
 aab muze aaiase hi ek nayi file banani thi isiliy eye wali file maine bana di hai aur thda maaza bhi aaraha hai muze typing kanre keliye isiliye aaia kuh bhi likh raha hu aabhi kya hai mere hath ka position barabar nhi hai na isiliye typing error aarahe hai aabhi kaam karta hu mei yesaare text ko word wrap kardunga jisse ye saara text sath mei aajayega
 dek bhai ye wali line mei developer branch mei add kar raha hu then jaise hi mei main branch me switch karunga toh ye wali line wahape dikhni nhi chahiye toh challiye shuru karte hai
+aabhi bore horaha hai likhne ko
