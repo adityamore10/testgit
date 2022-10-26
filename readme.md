@@ -1,1 +1,2 @@
 ## this is a reamdme file which consit all the infkormation about the project and various technolgies used while building the software
+## chal aab bakkki sab mei likh hi diya hai kuch na kuch toh tere mei bhi likh hi deta hu tune kya guna kiya hai jo mei tere mei nhi likhunga isiloiye chal mei tere mei bhi likh deta hu
