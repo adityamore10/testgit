@@ -1,0 +1,1 @@
+## this is a reamdme file which consit all the infkormation about the project and various technolgies used while building the software

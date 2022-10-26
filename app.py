@@ -1,0 +1,1 @@
+print("python ek bahot badhiya language hai aur woh bhot asan langunage hai bakki ke comnpariosn mei")
